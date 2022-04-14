@@ -1,0 +1,10 @@
+build_cygee/
+build_iop_binutils/
+build_iop_gcc/
+
+# ???
+iop/gcc-2.8.1/autom4te.cache
+
+# this repository generates this folder.
+toolchain/
+
